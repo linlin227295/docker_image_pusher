@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis
 python:3.11
 python:3.9
+ubuntu:24.04
